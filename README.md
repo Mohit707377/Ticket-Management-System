@@ -21,3 +21,7 @@ A simple Java-based Ticket Management System that allows users to create, view, 
 
 ## Output
 Console-based application to manage tickets efficiently.
+## Screenshot
+![Output](screenshot.png)
+## Screenshot
+![Output](screenshot.png)

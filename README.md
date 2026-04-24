@@ -11,3 +11,13 @@ A simple Java-based Ticket Management System that allows users to create, view, 
 ## Technologies Used
 - Java
 - OOP Concepts
+
+- ## How to Run
+1. Compile the program:
+   javac TicketSystem.java
+
+2. Run the program:
+   java TicketSystem
+
+## Output
+Console-based application to manage tickets efficiently.
